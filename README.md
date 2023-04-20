@@ -1,6 +1,6 @@
-- ## Olá, me chamo Daniel Ramos
+- ## Olá, me chamo Daniel Ramos, tenho 20 Anos
 - Formado em Aprendizagem Industrial de Eletroeletrônica.
-- Atualmente estou estudando Desenvolvimento de sistemas, 3° Semestre.
+- Atualmente estou estudando Desenvolvimento de sistemas, 4° Semestre.
 
 <div align="center">
  <a href="https://github.com/DanielRamos47">
